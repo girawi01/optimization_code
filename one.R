@@ -1,4 +1,4 @@
 # William Giraldo   
 #####
 
-plot(mtcars$mpg)
+rnorm(100)
